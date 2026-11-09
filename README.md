@@ -1,6 +1,6 @@
 # Seis pequenos, um lar gigante 🐾
 
-Site de divulgação para adoção responsável de seis filhotes, com fotos reais, informações da ninhada e cinco cards prontos para compartilhar.
+Site de divulgação para adoção responsável de seis filhotes, com as 13 fotos da ninhada, informações e cinco cards prontos para compartilhar.
 
 **Site:** https://guilhermecmt.github.io/gatinhos-para-adocao/
 
